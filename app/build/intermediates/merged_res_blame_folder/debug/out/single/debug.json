@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\layout_activity_location.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "org.caninecare.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "org.caninecare.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "org.caninecare.app-merged_res-49:/layout_activity_dog_profile.xml.flat",
+        "source": "org.caninecare.app-main-51:/layout/activity_dog_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\layout_activity_fertility.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_fertility.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\layout_activity_health.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_health.xml"
+    },
+    {
+        "merged": "org.caninecare.app-merged_res-49:/layout_item_heat_cycle.xml.flat",
+        "source": "org.caninecare.app-main-51:/layout/item_heat_cycle.xml"
+    },
+    {
+        "merged": "org.caninecare.app-merged_res-49:/layout_activity_fertility.xml.flat",
+        "source": "org.caninecare.app-main-51:/layout/activity_fertility.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\layout_activity_alerts.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_alerts.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "org.caninecare.app-merged_res-49:/layout_activity_heat_history.xml.flat",
+        "source": "org.caninecare.app-main-51:/layout/activity_heat_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-merged_res-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    }
+]

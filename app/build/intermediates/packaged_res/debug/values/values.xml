@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activityHigh">#FF5722</color>
+    <color name="activityLow">#FFC107</color>
+    <color name="activityNormal">#4CAF50</color>
+    <color name="background">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="buttonDanger">#F44336</color>
+    <color name="buttonPrimary">#2196F3</color>
+    <color name="buttonSuccess">#4CAF50</color>
+    <color name="buttonWarning">#FF9800</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="healthCritical">#D32F2F</color>
+    <color name="healthDanger">#F44336</color>
+    <color name="healthNormal">#4CAF50</color>
+    <color name="healthWarning">#FF9800</color>
+    <color name="ic_launcher_background">#2196F3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="severityCritical">#D32F2F</color>
+    <color name="severityHigh">#FF5722</color>
+    <color name="severityLow">#4CAF50</color>
+    <color name="severityMedium">#FF9800</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="tempFever">#F44336</color>
+    <color name="tempHypothermia">#2196F3</color>
+    <color name="tempNormal">#4CAF50</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="activity">Activity</string>
+    <string name="age_months">Age (months)</string>
+    <string name="alert_history">Alert History</string>
+    <string name="alerts">Alerts</string>
+    <string name="analyze_health">Analyze Health</string>
+    <string name="app_name">CanineCare+</string>
+    <string name="back">Back</string>
+    <string name="backend_not_running">Backend server is not running. Please start the backend.</string>
+    <string name="breed">Breed</string>
+    <string name="cancel">Cancel</string>
+    <string name="connection_error">Connection error. Please check your internet connection.</string>
+    <string name="current_activity">Current Activity</string>
+    <string name="current_temperature">Current Temperature</string>
+    <string name="data_refreshed">Data refreshed successfully</string>
+    <string name="days_since_last_heat">Days Since Last Heat</string>
+    <string name="distance_from_home">Distance from Home</string>
+    <string name="dog_name">Dog Name</string>
+    <string name="error">Error</string>
+    <string name="estimated_date">Estimated Date</string>
+    <string name="fertility_prediction">Fertility Prediction</string>
+    <string name="fertility_status">Fertility Status</string>
+    <string name="get_sensor_data">Get Latest Sensor Data</string>
+    <string name="gps_coordinates">GPS Coordinates</string>
+    <string name="health_analyzed">Health analyzed successfully</string>
+    <string name="health_monitor">Health Monitor</string>
+    <string name="health_status">Health Status</string>
+    <string name="home">Home</string>
+    <string name="latitude">Latitude</string>
+    <string name="loading">Loading...</string>
+    <string name="location">Location</string>
+    <string name="location_tracking">Location Tracking</string>
+    <string name="longitude">Longitude</string>
+    <string name="no_alerts">No alerts</string>
+    <string name="no_sensor_data">No sensor data available. Please start ESP32 device.</string>
+    <string name="ok">OK</string>
+    <string name="predict_fertility">Predict Fertility</string>
+    <string name="prediction_complete">Prediction complete</string>
+    <string name="prediction_results">Prediction Results</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="refresh_alerts">Refresh Alerts</string>
+    <string name="refresh_location">Refresh Location</string>
+    <string name="retry">Retry</string>
+    <string name="safe_zone_status">Safe Zone Status</string>
+    <string name="save">Save</string>
+    <string name="severity">Severity</string>
+    <string name="status">Status</string>
+    <string name="success">Success</string>
+    <string name="temperature">Temperature</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="welcome">Welcome to CanineCare+</string>
+    <style name="Theme.CanineCare" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        
+    </style>
+    <style name="Theme.CanineCare.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.CanineCare.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.CanineCare.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

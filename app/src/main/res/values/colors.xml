@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <!-- Material Design Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Custom Colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    
+    <!-- Health Status Colors -->
+    <color name="healthNormal">#4CAF50</color>
+    <color name="healthWarning">#FF9800</color>
+    <color name="healthDanger">#F44336</color>
+    <color name="healthCritical">#D32F2F</color>
+    
+    <!-- Temperature Colors -->
+    <color name="tempNormal">#4CAF50</color>
+    <color name="tempFever">#F44336</color>
+    <color name="tempHypothermia">#2196F3</color>
+    
+    <!-- Activity Colors -->
+    <color name="activityLow">#FFC107</color>
+    <color name="activityNormal">#4CAF50</color>
+    <color name="activityHigh">#FF5722</color>
+    
+    <!-- Alert Severity Colors -->
+    <color name="severityLow">#4CAF50</color>
+    <color name="severityMedium">#FF9800</color>
+    <color name="severityHigh">#FF5722</color>
+    <color name="severityCritical">#D32F2F</color>
+    
+    <!-- Button Colors -->
+    <color name="buttonPrimary">#2196F3</color>
+    <color name="buttonSuccess">#4CAF50</color>
+    <color name="buttonDanger">#F44336</color>
+    <color name="buttonWarning">#FF9800</color>
+    
+    <!-- Launcher Icon Colors -->
+    <color name="ic_launcher_background">#2196F3</color>
+</resources>

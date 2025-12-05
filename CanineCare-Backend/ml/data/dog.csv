@@ -1,0 +1,851 @@
+Dog_ID,Breed,Size_Category,Age_Months,Weight_kg,First_Heat_Age_Months,Cycle_Interval_Days,Days_Since_Last_Heat,Next_Heat_Due_Days,,Activity_Level
+1,Pug,Small,6,4,6,229,,,,High
+2,Pug,Small,6,6.5,5,228,,,,High
+3,Pug,Small,108,4.7,4,237,202,36,,Medium
+4,Pomeranian,Small,18,3.6,6,174,81,94,,Medium
+5,American Bully,Medium,9,21.6,9,172,,,,Medium
+6,Shih Tzu,Small,9,7.2,8,180,,,,Low
+7,Shih Tzu,Small,37,9.3,6,171,90,81,,High
+8,Golden Retriever,Large,27,38.9,13,205,45,160,,High
+9,Mettupalayam,Large,8,31.7,12,183,,,,High
+10,American Bully,Medium,76,21.7,12,177,111,66,,Medium
+11,Pug,Small,4,6.2,4,195,,,,Medium
+12,Indian Spitz,Medium,98,12,7,206,197,10,,High
+13,Rottweiler,Large,89,30,13,190,8,182,,Low
+14,Retriever,Large,13,35.6,10,209,,,,Low
+15,Husky,Large,51,34.7,6,181,81,100,,Low
+16,Pug,Small,77,9.4,5,162,84,78,,High
+17,Retriever,Large,8,40.4,13,204,,,,Low
+18,Husky,Large,98,37.4,7,197,165,32,,Low
+19,American Bully,Medium,6,16,11,178,,,,High
+20,Shih Tzu,Small,14,7.9,4,141,17,124,,High
+21,Indian Spitz,Medium,54,17,10,191,13,178,,High
+22,American Bully,Medium,88,23.3,9,184,165,19,,Low
+23,Indian Spitz,Medium,15,22.5,8,203,98,105,,High
+24,Retriever,Large,19,32.9,12,204,123,82,,Low
+25,Pomeranian,Small,88,6.5,12,202,59,142,,High
+26,Pug,Small,7,3.4,5,177,,,,Medium
+27,Golden Retriever,Large,11,28.5,13,196,,,,Low
+28,Indian Spitz,Medium,5,11.5,6,202,,,,Medium
+29,Rottweiler,Large,9,41,13,206,,,,Low
+30,Retriever,Large,9,42.7,11,209,,,,Medium
+31,Shih Tzu,Small,7,5.3,7,138,,,,Low
+32,Golden Retriever,Large,12,28.5,14,207,,,,High
+33,Rottweiler,Large,10,38.8,14,184,,,,Medium
+34,Pomeranian,Small,47,3.1,10,235,102,133,,Low
+35,Shih Tzu,Small,44,6.3,5,161,79,82,,Medium
+36,Pug,Small,7,4.2,6,156,,,,High
+37,Golden Retriever,Large,4,37.1,12,207,,,,Low
+38,Golden Retriever,Large,7,44.6,11,203,,,,Medium
+39,Indian Spitz,Medium,85,17.8,8,195,12,184,,Low
+40,Retriever,Large,10,31.1,12,180,,,,High
+41,Mettupalayam,Large,18,29.4,16,192,,,,Medium
+42,Indian Spitz,Medium,89,22.9,9,195,23,172,,Medium
+43,Nadan,Medium,93,20.1,10,190,40,150,,High
+44,Rottweiler,Large,31,38.3,13,191,97,94,,Medium
+45,Shih Tzu,Small,19,3,5,141,3,138,,Low
+46,Golden Retriever,Large,70,37.9,12,188,78,110,,High
+47,Indian Spitz,Medium,7,23.9,7,208,,,,Medium
+48,Retriever,Large,9,38.6,12,181,,,,Low
+49,Husky,Large,12,38.5,6,192,154,38,,High
+50,Rottweiler,Large,45,39.6,17,208,169,39,,Medium
+51,Husky,Large,26,27.8,6,189,130,59,,Low
+52,Nadan,Medium,13,20.6,10,185,,,,High
+53,Pomeranian,Small,11,3.3,10,234,,,,High
+54,Mettupalayam,Large,14,42.9,13,199,,,,Low
+55,Pomeranian,Small,68,6.1,9,201,67,134,,Low
+56,American Bully,Medium,120,23.7,8,174,5,169,,High
+57,American Bully,Medium,6,23.7,10,181,,,,Low
+58,Rottweiler,Large,12,37,13,190,,,,High
+59,American Bully,Medium,107,11.2,7,173,80,94,,Medium
+60,Nadan,Medium,55,23,7,185,49,136,,Low
+61,Indian Spitz,Medium,51,11,11,189,42,147,,Medium
+62,Pug,Small,40,9.2,6,232,98,135,,Medium
+63,Indian Spitz,Medium,64,22.3,8,195,56,140,,Medium
+64,Pug,Small,104,5.9,6,164,155,9,,Medium
+65,Husky,Large,4,28.4,6,186,,,,Medium
+66,Retriever,Large,26,27.1,13,191,184,8,,Low
+67,Golden Retriever,Large,7,34.6,14,198,,,,Medium
+68,Husky,Large,4,40.8,5,193,,,,Low
+69,Indian Spitz,Medium,8,12.6,6,202,,,,Medium
+70,Golden Retriever,Large,109,30.9,11,206,29,178,,High
+71,American Bully,Medium,88,22.8,10,179,70,109,,Medium
+72,Golden Retriever,Large,6,42.6,13,182,,,,Medium
+73,Nadan,Medium,118,24.3,7,184,64,120,,High
+74,Nadan,Medium,85,22.8,8,189,86,103,,Medium
+75,Indian Spitz,Medium,13,18.7,8,205,171,34,,High
+76,Rottweiler,Large,74,32.5,18,198,98,100,,Medium
+77,Mettupalayam,Large,28,30.5,15,207,16,191,,Medium
+78,Golden Retriever,Large,4,33.4,11,196,,,,Low
+79,Rottweiler,Large,51,27.2,14,204,192,12,,Low
+80,Golden Retriever,Large,94,37.4,11,187,178,9,,Medium
+81,Shih Tzu,Small,56,3.2,4,156,116,40,,Low
+82,Rottweiler,Large,118,31.8,13,183,143,40,,Medium
+83,Husky,Large,36,43.4,6,181,167,13,,Medium
+84,Nadan,Medium,108,15.8,10,186,92,94,,High
+85,Pomeranian,Small,5,4.1,8,207,,,,Medium
+86,Husky,Large,102,29.6,7,186,50,136,,High
+87,Pomeranian,Small,13,4,11,217,,,,Low
+88,Rottweiler,Large,15,26,13,199,,,,Medium
+89,Retriever,Large,4,27.2,11,191,,,,Low
+90,Retriever,Large,48,27.5,10,205,157,48,,High
+91,Rottweiler,Large,105,30.5,12,196,12,183,,Medium
+92,Golden Retriever,Large,50,42.8,13,207,39,168,,High
+93,Indian Spitz,Medium,65,16.8,8,202,65,137,,Low
+94,Retriever,Large,19,31.1,10,201,120,81,,Medium
+95,Pomeranian,Small,5,5.9,10,220,,,,Medium
+96,Shih Tzu,Small,4,7.2,7,154,,,,Low
+97,Retriever,Large,13,37.8,12,202,,,,Medium
+98,Rottweiler,Large,94,27.6,15,208,16,193,,Medium
+99,Indian Spitz,Medium,25,23.6,8,194,141,53,,Medium
+100,Nadan,Medium,64,16.7,8,185,99,86,,High
+101,American Bully,Medium,30,18.6,9,172,143,29,,High
+102,American Bully,Medium,11,12.2,10,183,,,,High
+103,Shih Tzu,Small,5,5.2,5,140,,,,Medium
+104,Nadan,Medium,26,12.7,11,182,43,139,,Medium
+105,Mettupalayam,Large,101,42.3,17,183,16,168,,Medium
+106,American Bully,Medium,10,14.8,10,174,,,,High
+107,Pug,Small,7,8.4,5,200,,,,High
+108,Pomeranian,Small,102,5.5,9,203,145,59,,Medium
+109,Nadan,Medium,93,18.3,9,195,189,6,,Low
+110,Nadan,Medium,7,21.4,12,200,,,,Medium
+111,Mettupalayam,Large,56,28.7,14,181,158,23,,Medium
+112,Husky,Large,6,35.5,6,189,,,,High
+113,Pug,Small,4,4.5,6,168,,,,Medium
+114,Pug,Small,81,8.5,4,219,194,25,,Medium
+115,Shih Tzu,Small,6,8.3,5,159,,,,High
+116,Rottweiler,Large,9,29.8,15,198,,,,Medium
+117,Nadan,Medium,6,17.4,7,191,,,,Medium
+118,American Bully,Medium,107,21.8,9,183,128,56,,Medium
+119,Pomeranian,Small,60,7.9,8,218,67,151,,High
+120,Mettupalayam,Large,15,31.5,18,204,,,,High
+121,Nadan,Medium,14,19.5,12,186,,,,High
+122,Golden Retriever,Large,97,38.2,14,188,44,144,,High
+123,Husky,Large,5,30.2,7,192,,,,Medium
+124,Mettupalayam,Large,21,26.4,14,204,137,67,,Medium
+125,Rottweiler,Large,56,36.5,18,190,42,147,,Low
+126,Golden Retriever,Large,15,39.4,14,197,,,,High
+127,Pomeranian,Small,14,9.2,6,194,184,10,,High
+128,American Bully,Medium,78,20.9,11,175,131,44,,High
+129,Mettupalayam,Large,56,27.4,13,183,113,71,,Low
+130,Husky,Large,9,29.6,6,187,,,,Medium
+131,Pomeranian,Small,117,3.1,6,213,191,23,,Medium
+132,Shih Tzu,Small,43,9.6,8,150,15,135,,Medium
+133,Nadan,Medium,6,21.3,10,185,,,,Low
+134,Pomeranian,Small,6,5.8,11,197,,,,Low
+135,Pomeranian,Small,23,5.7,10,236,146,91,,Low
+136,Nadan,Medium,4,15.1,7,192,,,,High
+137,Pug,Small,7,7.8,4,194,,,,Low
+138,Shih Tzu,Small,6,6.3,5,137,,,,Medium
+139,Shih Tzu,Small,55,4.3,8,179,139,41,,Low
+140,Pug,Small,116,7.6,5,192,36,156,,Medium
+141,American Bully,Medium,27,17.9,11,172,101,71,,Low
+142,Mettupalayam,Large,13,26.6,13,188,,,,High
+143,Pomeranian,Small,51,5.4,7,168,129,40,,High
+144,Mettupalayam,Large,12,42.5,15,196,,,,Medium
+145,Husky,Large,84,43.6,7,200,62,138,,High
+146,Mettupalayam,Large,12,35.6,17,208,,,,High
+147,Mettupalayam,Large,102,27.3,17,183,102,80,,Medium
+148,Indian Spitz,Medium,14,14.5,11,209,,,,Low
+149,Rottweiler,Large,5,42.3,17,188,,,,High
+150,Golden Retriever,Large,64,30.7,14,197,109,89,,High
+151,Retriever,Large,4,37,12,195,,,,Low
+152,Pomeranian,Small,30,9.4,10,188,137,51,,Low
+153,Mettupalayam,Large,88,33.1,15,196,181,15,,High
+154,Indian Spitz,Medium,116,13.3,8,192,118,74,,High
+155,Retriever,Large,13,44.8,13,207,,,,Medium
+156,Indian Spitz,Medium,73,11.3,11,200,126,75,,High
+157,Golden Retriever,Large,115,28.4,12,204,90,114,,Low
+158,Pug,Small,6,8.4,4,224,,,,High
+159,Shih Tzu,Small,98,4.5,5,179,117,63,,High
+160,Rottweiler,Large,9,28.4,15,188,,,,Medium
+161,Retriever,Large,10,43.3,13,200,,,,Medium
+162,American Bully,Medium,114,24.4,12,188,78,110,,Low
+163,Pomeranian,Small,75,7.2,7,199,167,32,,Medium
+164,Rottweiler,Large,6,29.9,17,209,,,,High
+165,Rottweiler,Large,16,41.3,14,205,,,,Medium
+166,Indian Spitz,Medium,9,11.9,6,202,,,,High
+167,American Bully,Medium,5,12.6,12,179,,,,Low
+168,Husky,Large,115,27.4,6,199,148,51,,High
+169,Indian Spitz,Medium,7,19.1,6,197,,,,Medium
+170,American Bully,Medium,3,22.7,9,190,,,,Medium
+171,Pug,Small,80,3.9,6,215,72,143,,High
+172,American Bully,Medium,17,13.5,7,180,73,107,,High
+173,Pomeranian,Small,14,6.1,11,193,,,,High
+174,Nadan,Medium,9,20.9,10,181,,,,High
+175,Mettupalayam,Large,31,34.6,16,209,14,195,,High
+176,Pomeranian,Small,34,7.8,11,197,115,82,,Low
+177,American Bully,Medium,44,17.2,11,185,123,63,,High
+178,Mettupalayam,Large,16,37.6,15,182,,,,Low
+179,American Bully,Medium,70,14.2,11,188,11,177,,Medium
+180,Indian Spitz,Medium,88,19,6,198,93,105,,High
+181,Nadan,Medium,117,12.1,11,196,44,153,,High
+182,Shih Tzu,Small,8,9,5,174,,,,High
+183,Rottweiler,Large,9,40.5,13,182,,,,Low
+184,Mettupalayam,Large,4,44.9,16,181,,,,High
+185,Indian Spitz,Medium,69,18,7,207,134,72,,High
+186,American Bully,Medium,6,23.6,12,178,,,,Medium
+187,Rottweiler,Large,87,40.3,13,187,166,21,,High
+188,Shih Tzu,Small,8,3.7,8,165,,,,High
+189,Golden Retriever,Large,88,40,10,198,80,118,,Medium
+190,Indian Spitz,Medium,53,18.9,12,194,66,128,,Low
+191,Pomeranian,Small,40,9.2,9,225,204,20,,High
+192,Pomeranian,Small,59,3.7,12,224,126,98,,High
+193,Shih Tzu,Small,8,6.2,6,159,,,,High
+194,Shih Tzu,Small,5,6.1,8,137,,,,Medium
+195,Husky,Large,5,32.6,6,194,,,,High
+196,Mettupalayam,Large,108,38.2,13,196,43,153,,Medium
+197,Pug,Small,4,8.9,4,193,,,,Medium
+198,American Bully,Medium,9,17.6,10,179,,,,Low
+199,Nadan,Medium,9,15.9,7,198,,,,High
+200,Mettupalayam,Large,52,39.9,18,183,170,13,,Medium
+201,Retriever,Large,120,43.1,12,202,41,162,,High
+202,Pomeranian,Small,12,9.2,11,182,,,,Low
+203,Rottweiler,Large,109,27,12,180,144,36,,Medium
+204,Golden Retriever,Large,22,41.1,14,202,152,50,,Medium
+205,Rottweiler,Large,39,43.4,14,208,34,173,,Medium
+206,Shih Tzu,Small,5,3.5,7,131,,,,Low
+207,Retriever,Large,13,34.8,13,183,,,,Low
+208,Pomeranian,Small,10,6.7,8,186,,,,Low
+209,Nadan,Medium,23,20.2,8,197,89,108,,High
+210,Pomeranian,Small,29,3,12,207,164,44,,Medium
+211,Shih Tzu,Small,4,3.9,4,174,,,,Medium
+212,Pug,Small,88,3,4,172,114,57,,Low
+213,Golden Retriever,Large,98,43.3,13,190,112,78,,High
+214,Pomeranian,Small,100,7.4,9,192,107,86,,High
+215,Husky,Large,5,27.3,7,184,,,,High
+216,Golden Retriever,Large,6,30.8,14,203,,,,High
+217,Mettupalayam,Large,70,30.3,15,205,197,8,,High
+218,Pomeranian,Small,5,6.3,7,235,,,,High
+219,Mettupalayam,Large,57,35.8,16,203,164,39,,High
+220,Rottweiler,Large,91,38.5,16,189,107,82,,Low
+221,Nadan,Medium,8,19,6,189,,,,Low
+222,Mettupalayam,Large,48,37.5,14,202,186,16,,High
+223,Mettupalayam,Large,81,44.4,15,194,101,93,,Low
+224,Retriever,Large,112,34.7,14,200,112,87,,Low
+225,Retriever,Large,13,43.5,11,189,,,,High
+226,Pug,Small,6,5.1,4,239,,,,Medium
+227,Pug,Small,3,7,4,154,,,,Low
+228,Golden Retriever,Large,15,43.1,13,183,,,,Medium
+229,Indian Spitz,Medium,100,21.2,8,186,56,130,,High
+230,Shih Tzu,Small,6,8,5,146,,,,High
+231,Mettupalayam,Large,17,30.6,13,181,104,77,,High
+232,Nadan,Medium,38,20.1,12,190,77,113,,Medium
+233,Pomeranian,Small,4,6.6,6,214,,,,Medium
+234,Retriever,Large,36,41.4,12,197,157,40,,High
+235,Pug,Small,7,9.4,5,158,,,,High
+236,Shih Tzu,Small,10,9.7,5,140,70,70,,Low
+237,Pug,Small,6,4.9,5,212,,,,Medium
+238,Indian Spitz,Medium,116,18.7,9,186,12,174,,Medium
+239,Husky,Large,114,30.7,5,199,42,158,,High
+240,American Bully,Medium,11,23.2,10,171,,,,Low
+241,Indian Spitz,Medium,10,23.1,10,195,,,,Low
+242,Husky,Large,6,39.1,6,186,,,,Low
+243,Golden Retriever,Large,12,31.8,12,207,,,,Low
+244,Rottweiler,Large,8,35.2,16,190,,,,Low
+245,Husky,Large,76,30.1,6,191,118,73,,Medium
+246,Nadan,Medium,28,12,7,187,67,119,,Medium
+247,Indian Spitz,Medium,6,14,7,197,,,,High
+248,Rottweiler,Large,9,31.2,14,181,,,,Medium
+249,Mettupalayam,Large,21,36.7,15,183,73,110,,Medium
+250,Nadan,Medium,28,11.9,10,193,79,113,,Medium
+251,American Bully,Medium,25,22.9,12,181,149,32,,Medium
+252,Nadan,Medium,106,16.4,9,192,191,1,,Medium
+253,Nadan,Medium,91,24.7,10,198,188,10,,High
+254,Mettupalayam,Large,6,43,14,191,,,,High
+255,Indian Spitz,Medium,7,19.3,8,195,,,,Low
+256,Mettupalayam,Large,13,38.1,14,206,,,,Medium
+257,Shih Tzu,Small,61,9.8,7,131,7,124,,Medium
+258,Husky,Large,29,33.8,6,180,106,75,,Medium
+259,Golden Retriever,Large,82,33.4,14,184,132,51,,Low
+260,Pug,Small,5,5.3,6,189,,,,High
+261,Golden Retriever,Large,4,35.7,13,191,,,,Low
+262,Retriever,Large,10,27.1,13,197,,,,Low
+263,Pomeranian,Small,8,4.8,9,223,,,,Medium
+264,American Bully,Medium,12,13,7,175,33,143,,High
+265,Shih Tzu,Small,8,9.5,6,169,,,,Low
+266,Pug,Small,69,9.6,5,217,177,40,,Low
+267,Husky,Large,7,31.3,7,184,,,,High
+268,American Bully,Medium,114,15.4,9,189,124,65,,High
+269,American Bully,Medium,50,11.7,8,178,110,68,,Low
+270,Pug,Small,80,3.2,5,153,1,152,,Medium
+271,Pug,Small,42,6.6,5,235,8,228,,Medium
+272,Rottweiler,Large,19,36.7,17,194,,,,High
+273,Mettupalayam,Large,3,35,13,207,,,,Medium
+274,American Bully,Medium,5,19.6,6,174,,,,High
+275,Golden Retriever,Large,8,34.1,13,191,,,,High
+276,Retriever,Large,10,43.1,13,207,,,,High
+277,Rottweiler,Large,79,36.2,16,207,152,55,,High
+278,Rottweiler,Large,71,40.9,16,183,65,118,,Medium
+279,Nadan,Medium,27,23.3,9,194,180,14,,Medium
+280,Mettupalayam,Large,7,36.3,17,204,,,,High
+281,Mettupalayam,Large,18,38.3,17,198,,,,Medium
+282,Nadan,Medium,83,14.5,10,200,128,72,,Low
+283,Golden Retriever,Large,103,28.5,13,202,192,11,,High
+284,Husky,Large,90,40.7,6,199,9,190,,Low
+285,Husky,Large,4,29.3,7,188,,,,Low
+286,Rottweiler,Large,26,35.5,15,204,85,118,,Low
+287,Shih Tzu,Small,6,3.2,4,134,,,,High
+288,Pomeranian,Small,69,8.2,8,182,98,84,,Low
+289,Rottweiler,Large,12,42,17,207,,,,High
+290,Mettupalayam,Large,92,35.2,12,194,58,136,,Low
+291,Retriever,Large,85,31.4,10,198,156,42,,Medium
+292,Pomeranian,Small,68,6.7,9,189,155,34,,Low
+293,Nadan,Medium,33,20.8,12,189,99,90,,Low
+294,Pug,Small,4,6.7,5,176,,,,High
+295,Nadan,Medium,12,18.3,11,196,,,,Medium
+296,Husky,Large,8,39.5,7,192,,,,Medium
+297,American Bully,Medium,7,24.7,8,175,,,,High
+298,Husky,Large,113,35.2,7,186,40,146,,Medium
+299,Retriever,Large,117,43.2,14,184,14,170,,High
+300,Husky,Large,5,39.6,6,196,,,,Medium
+301,Rottweiler,Large,12,35.9,18,205,,,,High
+302,Shih Tzu,Small,3,5.1,6,134,,,,Medium
+303,Husky,Large,33,31.4,7,187,118,69,,High
+304,Pug,Small,89,4.5,5,232,156,76,,Medium
+305,Mettupalayam,Large,54,43.7,18,196,33,163,,High
+306,Shih Tzu,Small,9,3.5,7,178,,,,Low
+307,Shih Tzu,Small,4,8.9,7,154,,,,High
+308,American Bully,Medium,12,24.3,10,180,,,,High
+309,Shih Tzu,Small,6,8.1,6,168,,,,Medium
+310,Pug,Small,3,5.4,5,173,,,,Medium
+311,Rottweiler,Large,85,34.6,15,183,86,97,,Medium
+312,Shih Tzu,Small,81,4,7,166,82,84,,Medium
+313,Retriever,Large,12,34.8,13,182,,,,Medium
+314,Pug,Small,15,7.7,6,205,110,95,,High
+315,American Bully,Medium,8,20.7,10,171,,,,Low
+316,American Bully,Medium,11,11.6,9,176,,,,Low
+317,Husky,Large,9,35.7,7,197,,,,Low
+318,Shih Tzu,Small,9,8.7,7,126,,,,Medium
+319,Pug,Small,76,6,4,237,9,228,,High
+320,Nadan,Medium,6,18.5,9,186,,,,Medium
+321,Pug,Small,57,7.9,5,167,22,144,,High
+322,Golden Retriever,Large,105,42.2,12,182,175,7,,Low
+323,Shih Tzu,Small,6,5,7,140,,,,Low
+324,American Bully,Medium,9,14.3,7,176,,,,Medium
+325,Pomeranian,Small,38,8.1,10,182,25,158,,Low
+326,Husky,Large,8,33.3,7,192,,,,Medium
+327,Indian Spitz,Medium,5,18.2,8,188,,,,Low
+328,American Bully,Medium,7,11.3,7,182,,,,Low
+329,Pomeranian,Small,78,4.5,8,180,1,179,,Medium
+330,Indian Spitz,Medium,7,18.1,12,209,,,,Medium
+331,Rottweiler,Large,13,31.5,12,182,,,,High
+332,Nadan,Medium,4,17.5,9,181,,,,High
+333,Mettupalayam,Large,19,26.9,16,189,,,,Medium
+334,Pug,Small,4,9.3,6,163,,,,Medium
+335,Indian Spitz,Medium,7,19,7,187,,,,Medium
+336,Indian Spitz,Medium,107,24,8,199,3,195,,Medium
+337,Pug,Small,5,4.6,5,159,,,,High
+338,Nadan,Medium,48,11.1,11,196,90,106,,Low
+339,Golden Retriever,Large,61,39.2,12,196,154,42,,Medium
+340,Pug,Small,25,6.1,4,189,68,122,,Low
+341,Retriever,Large,18,33.6,13,182,79,103,,High
+342,Golden Retriever,Large,34,35.6,14,194,170,25,,High
+343,American Bully,Medium,105,21.4,10,183,107,76,,Low
+344,Rottweiler,Large,17,34.5,14,199,,,,Low
+345,Golden Retriever,Large,6,42.2,12,205,,,,Low
+346,Rottweiler,Large,16,26.1,16,192,,,,Low
+347,Golden Retriever,Large,42,30.6,14,209,107,102,,Low
+348,Golden Retriever,Large,5,37.3,12,195,,,,Low
+349,Husky,Large,16,42,6,199,61,137,,Low
+350,Retriever,Large,7,40.9,11,197,,,,High
+351,Indian Spitz,Medium,9,14.1,8,188,,,,Low
+352,Rottweiler,Large,5,28.3,14,185,,,,Low
+353,American Bully,Medium,6,18,11,172,,,,Low
+354,Indian Spitz,Medium,8,24.3,11,208,,,,Medium
+355,Pug,Small,8,9,6,167,,,,Low
+356,Pug,Small,70,5.3,5,219,65,154,,High
+357,Nadan,Medium,4,19,10,194,,,,High
+358,Nadan,Medium,13,19.5,12,194,,,,Medium
+359,Shih Tzu,Small,9,8.3,7,120,,,,Low
+360,Pug,Small,20,8.8,6,234,63,171,,Medium
+361,Pug,Small,8,5.2,6,187,,,,Low
+362,Rottweiler,Large,57,37.3,13,209,204,4,,Medium
+363,Nadan,Medium,107,21.1,9,192,56,136,,Medium
+364,Indian Spitz,Medium,13,13,11,206,,,,Low
+365,Retriever,Large,6,37.3,11,202,,,,Medium
+366,Retriever,Large,78,29.5,10,197,30,167,,Medium
+367,Shih Tzu,Small,23,8.5,8,163,36,127,,High
+368,Husky,Large,9,38.6,7,199,,,,Medium
+369,Golden Retriever,Large,18,39,12,181,29,152,,High
+370,Rottweiler,Large,8,41.4,13,187,,,,Low
+371,Mettupalayam,Large,23,43,14,200,17,183,,Low
+372,Pug,Small,12,9.7,5,218,86,132,,Medium
+373,American Bully,Medium,111,14.6,9,183,171,12,,High
+374,Pug,Small,4,5.1,4,230,,,,High
+375,Retriever,Large,8,42,13,205,,,,Low
+376,Indian Spitz,Medium,4,15.9,7,193,,,,High
+377,Nadan,Medium,87,19.1,11,182,5,178,,High
+378,Pug,Small,7,8.7,5,232,,,,Low
+379,Indian Spitz,Medium,10,19.6,8,192,,,,High
+380,Shih Tzu,Small,7,6.5,5,123,,,,Medium
+381,Pug,Small,83,5.6,5,185,106,80,,High
+382,Mettupalayam,Large,70,33.9,14,192,25,168,,Low
+383,Pomeranian,Small,25,6.8,10,232,10,221,,Medium
+384,American Bully,Medium,42,14.2,9,177,51,126,,High
+385,American Bully,Medium,81,23.6,11,179,17,162,,Medium
+386,Pomeranian,Small,20,5.1,10,206,1,204,,Low
+387,Rottweiler,Large,49,29.7,18,202,56,146,,High
+388,Shih Tzu,Small,6,8.3,5,149,,,,Medium
+389,Nadan,Medium,6,19.5,8,182,,,,High
+390,Retriever,Large,87,39.3,11,186,22,164,,Low
+391,Mettupalayam,Large,13,27.6,13,182,,,,Medium
+392,Retriever,Large,14,26.3,11,186,,,,High
+393,Shih Tzu,Small,80,5.4,7,161,134,27,,High
+394,Pug,Small,5,9.7,5,178,,,,High
+395,Mettupalayam,Large,26,41.9,17,196,48,147,,Low
+396,Pug,Small,4,5.4,4,188,,,,High
+397,Pomeranian,Small,12,9.7,10,209,,,,High
+398,American Bully,Medium,87,14.8,9,172,87,85,,Medium
+399,Mettupalayam,Large,46,39.4,15,190,64,126,,High
+400,Golden Retriever,Large,73,34.3,11,188,113,75,,Medium
+401,Shih Tzu,Small,67,5.6,5,126,115,11,,Low
+402,Mettupalayam,Large,117,29.7,13,197,160,38,,Low
+403,American Bully,Medium,8,22.4,9,175,,,,High
+404,Pomeranian,Small,3,4.8,10,182,,,,High
+405,Shih Tzu,Small,30,5.5,6,124,32,92,,High
+406,Mettupalayam,Large,29,42.6,15,192,190,3,,High
+407,Golden Retriever,Large,11,35.9,13,182,,,,Low
+408,Rottweiler,Large,12,42,14,191,,,,Medium
+409,American Bully,Medium,5,14.7,9,185,,,,Low
+410,Pomeranian,Small,8,9,8,215,,,,High
+411,Husky,Large,104,26.4,7,183,15,168,,High
+412,Retriever,Large,58,33.3,13,197,43,154,,High
+413,Nadan,Medium,102,11.5,9,189,137,53,,Medium
+414,American Bully,Medium,6,11.6,7,188,,,,Medium
+415,Pomeranian,Small,45,3.9,8,207,189,18,,Medium
+416,Rottweiler,Large,5,44.5,16,208,,,,Medium
+417,Pomeranian,Small,36,7,8,168,48,120,,Low
+418,Pug,Small,99,4,5,235,204,31,,Medium
+419,Mettupalayam,Large,10,33.4,13,201,,,,High
+420,Pomeranian,Small,61,5.6,10,218,29,189,,Medium
+421,Pug,Small,7,10,6,207,,,,Medium
+422,Shih Tzu,Small,71,8.7,8,129,98,31,,High
+423,Indian Spitz,Medium,7,14.3,7,206,,,,High
+424,Indian Spitz,Medium,6,24,8,191,,,,Medium
+425,American Bully,Medium,7,18.1,6,170,,,,Low
+426,Pomeranian,Small,8,8,10,214,,,,Medium
+427,Shih Tzu,Small,4,3.8,6,154,,,,High
+428,Pomeranian,Small,9,8.7,10,225,,,,High
+429,Golden Retriever,Large,8,37.6,12,189,,,,Medium
+430,Husky,Large,17,32.3,5,184,119,65,,Medium
+431,Rottweiler,Large,94,30.5,18,200,78,121,,High
+432,Husky,Large,6,33,7,191,,,,Medium
+433,Indian Spitz,Medium,104,11.8,10,200,91,108,,High
+434,American Bully,Medium,10,21.2,11,182,,,,Medium
+435,Mettupalayam,Large,9,32.8,17,195,,,,Low
+436,Rottweiler,Large,118,39.6,14,195,187,8,,Low
+437,Retriever,Large,3,43.3,14,209,,,,High
+438,Mettupalayam,Large,100,32.8,14,189,30,159,,Medium
+439,Husky,Large,48,42.9,5,198,71,127,,High
+440,Pug,Small,8,3,5,196,,,,Medium
+441,Rottweiler,Large,94,29.7,14,189,2,187,,High
+442,Husky,Large,3,31.9,7,182,,,,Low
+443,Rottweiler,Large,74,38.1,16,202,187,16,,Medium
+444,Husky,Large,19,37.3,6,185,28,157,,High
+445,Pug,Small,78,7.1,5,208,80,128,,Medium
+446,American Bully,Medium,97,23.2,7,178,74,103,,High
+447,Nadan,Medium,65,21.5,12,187,108,79,,Low
+448,Mettupalayam,Large,97,34.3,13,197,65,131,,High
+449,Rottweiler,Large,62,26.9,17,180,171,10,,Medium
+450,Mettupalayam,Large,11,26.3,15,190,,,,Medium
+451,Indian Spitz,Medium,7,21.4,7,190,,,,High
+452,American Bully,Medium,40,22.7,12,172,125,47,,Low
+453,Pomeranian,Small,101,3.9,10,219,74,145,,Medium
+454,Pomeranian,Small,70,6,7,229,203,26,,Low
+455,Shih Tzu,Small,4,7.1,6,179,,,,High
+456,Rottweiler,Large,13,26.6,17,200,,,,High
+457,Pug,Small,7,7.6,5,171,,,,Low
+458,Mettupalayam,Large,9,26.8,17,181,,,,Low
+459,Nadan,Medium,9,13.5,7,184,,,,Medium
+460,Pug,Small,84,6.1,4,190,8,182,,Medium
+461,Nadan,Medium,10,23,9,191,,,,High
+462,Shih Tzu,Small,4,4.7,6,155,,,,Medium
+463,Husky,Large,5,39.3,5,184,,,,Medium
+464,Retriever,Large,7,42.2,13,189,,,,High
+465,Nadan,Medium,10,16.2,10,185,,,,High
+466,Indian Spitz,Medium,11,21.7,11,198,,,,Medium
+467,Retriever,Large,3,27.8,13,185,,,,High
+468,American Bully,Medium,70,21.4,9,172,134,38,,Medium
+469,Retriever,Large,111,41.1,11,198,133,65,,High
+470,Pomeranian,Small,43,8.9,11,224,169,54,,Medium
+471,Pomeranian,Small,5,4.4,7,225,,,,High
+472,Retriever,Large,7,33.8,13,208,,,,High
+473,Retriever,Large,8,28.3,13,199,,,,Medium
+474,Indian Spitz,Medium,43,13.8,11,201,34,168,,Medium
+475,Indian Spitz,Medium,68,15.5,8,195,51,144,,High
+476,American Bully,Medium,4,11.3,8,190,,,,Low
+477,Shih Tzu,Small,5,5.6,7,149,,,,Low
+478,Nadan,Medium,10,23.7,8,185,,,,Medium
+479,Pug,Small,107,4.1,6,193,17,177,,Low
+480,American Bully,Medium,48,22.3,8,180,55,125,,High
+481,Nadan,Medium,41,14,7,188,111,77,,High
+482,Retriever,Large,62,43.2,11,206,59,147,,Medium
+483,American Bully,Medium,42,23.9,9,178,62,116,,Low
+484,Pomeranian,Small,28,3.3,9,193,13,180,,Low
+485,Golden Retriever,Large,67,37.7,14,190,162,28,,Low
+486,Pomeranian,Small,79,5.6,12,221,31,190,,Medium
+487,American Bully,Medium,54,22.4,12,179,37,142,,High
+488,Indian Spitz,Medium,34,11.3,9,191,163,29,,Medium
+489,Shih Tzu,Small,6,3.2,7,156,,,,Low
+490,Indian Spitz,Medium,7,13.6,8,207,,,,Medium
+491,Pomeranian,Small,104,7.3,10,211,157,54,,High
+492,Shih Tzu,Small,49,4.5,5,144,56,88,,High
+493,Shih Tzu,Small,4,5.2,5,142,,,,High
+494,Rottweiler,Large,12,29.7,15,191,,,,Low
+495,American Bully,Medium,8,24,8,185,,,,Medium
+496,Mettupalayam,Large,14,30.7,16,191,,,,Low
+497,Pomeranian,Small,86,5.7,12,194,63,131,,Medium
+498,American Bully,Medium,64,23.9,9,188,102,86,,High
+499,Pomeranian,Small,6,9.8,7,191,,,,Low
+500,Pomeranian,Small,32,6,7,218,85,133,,Medium
+501,Pomeranian,Small,50,5.2,10,209,82,128,,Medium
+502,Shih Tzu,Small,11,5,8,173,169,3,,High
+503,Golden Retriever,Large,13,29.2,14,184,,,,Low
+504,Shih Tzu,Small,17,5.2,6,155,140,15,,High
+505,Nadan,Medium,5,17.6,7,195,,,,High
+506,Retriever,Large,16,27.2,14,198,,,,High
+507,Mettupalayam,Large,9,28.6,12,181,,,,Low
+508,Nadan,Medium,6,21.5,11,189,,,,High
+509,Rottweiler,Large,12,41,16,187,,,,High
+510,Pug,Small,7,6.8,5,167,,,,High
+511,Indian Spitz,Medium,7,17.1,12,192,,,,Medium
+512,Retriever,Large,69,38,13,198,91,107,,Medium
+513,Indian Spitz,Medium,3,16.1,10,208,,,,Low
+514,Pug,Small,4,3.2,5,240,,,,Low
+515,Shih Tzu,Small,7,9.5,5,136,,,,High
+516,Rottweiler,Large,38,38.4,14,198,7,191,,Low
+517,Pug,Small,55,8.7,4,233,122,112,,High
+518,Nadan,Medium,3,18,6,188,,,,Low
+519,Nadan,Medium,13,11.3,10,195,,,,High
+520,Husky,Large,4,38.1,7,192,,,,Low
+521,Retriever,Large,103,27.6,10,189,56,133,,Medium
+522,Pomeranian,Small,105,9.5,6,192,20,171,,High
+523,Shih Tzu,Small,116,3.3,8,140,49,91,,Low
+524,Indian Spitz,Medium,8,24.2,7,187,,,,Medium
+525,Husky,Large,8,44,6,194,,,,High
+526,Golden Retriever,Large,6,28.5,12,199,,,,High
+527,Shih Tzu,Small,6,7.3,4,138,,,,Low
+528,Shih Tzu,Small,9,6.9,7,171,,,,Low
+529,Mettupalayam,Large,104,39.8,14,197,81,117,,High
+530,Pomeranian,Small,87,9.8,7,201,81,120,,Low
+531,Golden Retriever,Large,12,28.9,13,198,,,,High
+532,Retriever,Large,13,28.1,10,183,,,,High
+533,Mettupalayam,Large,8,29.7,14,195,,,,Low
+534,Mettupalayam,Large,9,35.9,17,188,,,,Low
+535,American Bully,Medium,3,24.9,11,178,,,,High
+536,Mettupalayam,Large,40,42.7,17,196,41,155,,Low
+537,Mettupalayam,Large,10,32.6,13,190,,,,High
+538,American Bully,Medium,23,16.9,8,174,110,64,,High
+539,Retriever,Large,108,33.1,13,186,150,36,,Low
+540,Husky,Large,96,42,6,194,76,118,,High
+541,Shih Tzu,Small,61,9.7,7,132,7,126,,High
+542,Golden Retriever,Large,115,38.9,14,190,181,9,,High
+543,Retriever,Large,4,43.2,14,207,,,,Medium
+544,Mettupalayam,Large,5,26,15,210,,,,High
+545,Rottweiler,Large,8,35.5,12,202,,,,Medium
+546,American Bully,Medium,10,18.2,9,182,,,,High
+547,Rottweiler,Large,8,41.6,18,205,,,,Medium
+548,Pug,Small,71,7.6,4,232,210,22,,High
+549,Indian Spitz,Medium,100,21.1,8,206,201,4,,Low
+550,Rottweiler,Large,54,28.4,15,198,166,33,,High
+551,Retriever,Large,101,31,11,197,184,12,,High
+552,Pomeranian,Small,70,7.4,11,221,127,94,,Medium
+553,Retriever,Large,25,38.9,10,192,138,53,,Low
+554,Mettupalayam,Large,11,35.1,13,200,,,,Low
+555,American Bully,Medium,4,23.2,10,185,,,,High
+556,Retriever,Large,10,38.6,13,203,,,,Low
+557,Retriever,Large,14,31.7,12,181,,,,Low
+558,Nadan,Medium,6,19.7,8,183,,,,High
+559,Golden Retriever,Large,11,27.8,10,201,,,,Low
+560,Indian Spitz,Medium,52,15.9,10,202,158,44,,Low
+561,Shih Tzu,Small,5,6.5,6,166,,,,Medium
+562,Indian Spitz,Medium,9,24,7,185,,,,Medium
+563,Retriever,Large,37,32.6,12,205,5,200,,Medium
+564,Shih Tzu,Small,40,3.4,4,147,99,48,,Low
+565,American Bully,Medium,91,12.5,11,175,124,51,,High
+566,Retriever,Large,106,34,11,207,5,203,,Medium
+567,Retriever,Large,82,38.3,12,210,21,189,,Medium
+568,American Bully,Medium,8,15.2,11,177,,,,Medium
+569,American Bully,Medium,103,17.7,9,185,46,139,,High
+570,Husky,Large,7,41.8,7,193,,,,Medium
+571,Husky,Large,45,38.5,6,185,72,113,,High
+572,Mettupalayam,Large,7,26.4,17,189,,,,High
+573,Retriever,Large,28,35.9,11,199,28,171,,Medium
+574,Husky,Large,71,43.9,6,187,44,143,,Low
+575,Golden Retriever,Large,5,30.5,11,202,,,,Medium
+576,Husky,Large,4,36.9,6,195,,,,Medium
+577,American Bully,Medium,53,14,12,171,51,120,,Low
+578,Pug,Small,7,8.6,5,200,,,,High
+579,Pomeranian,Small,4,5.3,9,171,,,,Medium
+580,Rottweiler,Large,13,36,14,198,,,,Low
+581,American Bully,Medium,27,12.7,12,176,3,173,,Medium
+582,Husky,Large,7,33.7,6,195,,,,Medium
+583,Nadan,Medium,103,20.9,9,191,73,119,,Medium
+584,Nadan,Medium,109,21.2,9,199,135,64,,High
+585,Indian Spitz,Medium,4,17.4,7,186,,,,High
+586,Nadan,Medium,120,13.4,6,183,143,41,,Low
+587,Golden Retriever,Large,8,28.7,13,199,,,,Medium
+588,Pomeranian,Small,9,5.6,10,179,,,,Low
+589,Retriever,Large,11,28.5,11,200,,,,Low
+590,Retriever,Large,9,43.7,13,184,,,,Low
+591,Golden Retriever,Large,12,31.4,10,199,,,,High
+592,Husky,Large,7,32.5,5,199,,,,Low
+593,Pug,Small,112,4,5,157,137,20,,Medium
+594,Indian Spitz,Medium,19,19.1,7,196,126,70,,Low
+595,American Bully,Medium,7,13.7,11,181,,,,Low
+596,American Bully,Medium,80,12.2,7,179,5,174,,High
+597,Husky,Large,7,43.5,6,184,,,,Medium
+598,Shih Tzu,Small,44,9.5,5,177,163,14,,High
+599,Indian Spitz,Medium,91,17.2,11,201,79,122,,Medium
+600,Husky,Large,4,28.5,5,183,,,,Low
+601,American Bully,Medium,115,21.4,9,187,60,127,,Low
+602,Husky,Large,5,41,6,193,,,,Low
+603,Mettupalayam,Large,33,30,16,182,175,6,,Low
+604,Pug,Small,7,7.2,5,172,,,,High
+605,Retriever,Large,7,33.1,11,199,,,,Low
+606,Shih Tzu,Small,58,6.7,5,144,94,50,,Low
+607,Pomeranian,Small,42,9.6,11,189,116,73,,Low
+608,American Bully,Medium,10,14.8,12,177,,,,High
+609,Indian Spitz,Medium,61,13.4,12,184,97,88,,High
+610,Indian Spitz,Medium,93,16.7,11,194,84,110,,High
+611,Rottweiler,Large,15,30.5,14,206,,,,High
+612,Golden Retriever,Large,11,37.6,10,195,,,,Low
+613,Nadan,Medium,56,23.1,9,183,147,37,,Low
+614,Pomeranian,Small,7,5,6,189,,,,Medium
+615,American Bully,Medium,8,14.7,7,177,,,,Medium
+616,Nadan,Medium,11,22.1,9,193,,,,Medium
+617,Golden Retriever,Large,3,30.1,10,182,,,,Low
+618,Indian Spitz,Medium,50,12.6,11,186,113,73,,High
+619,Retriever,Large,33,44.6,12,192,70,122,,Medium
+620,Indian Spitz,Medium,24,24.9,7,199,189,10,,High
+621,Golden Retriever,Large,94,40.3,14,199,175,24,,Low
+622,Nadan,Medium,5,22.6,10,193,,,,High
+623,Mettupalayam,Large,14,35.6,13,188,,,,High
+624,Indian Spitz,Medium,106,21.8,10,208,106,102,,High
+625,Shih Tzu,Small,5,3.9,7,160,,,,Low
+626,Pug,Small,111,4.1,6,222,66,156,,Low
+627,Retriever,Large,11,39.8,12,183,,,,Low
+628,Mettupalayam,Large,9,27.1,15,199,,,,Low
+629,Husky,Large,41,26,7,189,78,111,,High
+630,Mettupalayam,Large,14,28.8,14,199,,,,Medium
+631,American Bully,Medium,5,11.4,9,177,,,,Medium
+632,Golden Retriever,Large,97,43.7,11,183,24,159,,High
+633,American Bully,Medium,12,15.2,11,176,,,,Medium
+634,Pomeranian,Small,23,6.9,10,204,65,140,,High
+635,Nadan,Medium,105,23.5,10,188,57,131,,High
+636,Pomeranian,Small,95,9.5,7,228,29,198,,Low
+637,Nadan,Medium,104,23.3,8,196,107,89,,High
+638,Nadan,Medium,70,19.5,10,184,61,123,,Medium
+639,Husky,Large,118,40.1,6,184,173,11,,High
+640,Rottweiler,Large,6,36.7,14,199,,,,High
+641,Husky,Large,5,29.1,6,187,,,,Medium
+642,Nadan,Medium,86,19.2,8,198,118,80,,Low
+643,Shih Tzu,Small,46,8,5,161,105,56,,High
+644,Golden Retriever,Large,12,37.4,11,205,,,,Medium
+645,Pomeranian,Small,23,4.4,9,200,8,191,,Medium
+646,Pomeranian,Small,7,7.3,10,201,,,,Medium
+647,Indian Spitz,Medium,57,22.7,12,188,116,72,,Low
+648,Indian Spitz,Medium,40,15.6,9,192,19,173,,Medium
+649,Pug,Small,6,9.9,5,231,,,,High
+650,Pug,Small,16,4.6,4,163,98,64,,Medium
+651,Golden Retriever,Large,7,31.2,13,191,,,,Medium
+652,American Bully,Medium,14,13.2,12,175,,,,Medium
+653,Nadan,Medium,11,14.2,10,194,,,,High
+654,Mettupalayam,Large,11,42.4,14,201,,,,High
+655,Shih Tzu,Small,9,5.7,6,122,,,,Medium
+656,Golden Retriever,Large,7,30,14,202,,,,High
+657,American Bully,Medium,12,18.5,12,174,,,,Medium
+658,Husky,Large,5,36.2,5,200,,,,High
+659,American Bully,Medium,15,15.6,12,181,,,,Medium
+660,Nadan,Medium,118,17.5,7,195,95,101,,Low
+661,Golden Retriever,Large,109,28.7,13,187,161,26,,Medium
+662,Rottweiler,Large,6,29.5,13,206,,,,Medium
+663,Rottweiler,Large,14,44.5,15,197,,,,Low
+664,Husky,Large,4,38.4,6,193,,,,Low
+665,Mettupalayam,Large,7,41.7,14,202,,,,Medium
+666,Indian Spitz,Medium,11,21.5,10,197,,,,Medium
+667,Indian Spitz,Medium,8,21.8,7,199,,,,Medium
+668,Nadan,Medium,6,21.8,12,197,,,,Medium
+669,Indian Spitz,Medium,99,22.5,10,193,115,78,,Medium
+670,Husky,Large,9,33.9,7,195,,,,High
+671,Pug,Small,112,3.9,4,210,83,126,,Medium
+672,Rottweiler,Large,49,31.7,14,200,138,62,,Medium
+673,Rottweiler,Large,7,32.5,16,183,,,,Low
+674,Pug,Small,29,5,5,160,152,9,,Medium
+675,Pomeranian,Small,100,4.1,8,185,77,107,,Medium
+676,Shih Tzu,Small,5,3.4,5,151,,,,Medium
+677,Mettupalayam,Large,15,31.6,13,206,,,,Medium
+678,Indian Spitz,Medium,11,12,9,195,,,,Medium
+679,Pug,Small,18,3.7,6,224,95,129,,Medium
+680,Rottweiler,Large,50,33.1,18,207,175,33,,High
+681,Rottweiler,Large,7,40.1,17,187,,,,Medium
+682,Mettupalayam,Large,29,37.4,13,186,180,6,,Medium
+683,Shih Tzu,Small,3,3.4,6,160,,,,Low
+684,Husky,Large,8,38,6,190,,,,Low
+685,Retriever,Large,62,27.6,11,193,8,184,,Low
+686,Indian Spitz,Medium,13,18.9,10,197,,,,Low
+687,Mettupalayam,Large,8,33,13,196,,,,Medium
+688,Pug,Small,6,4,4,151,,,,Medium
+689,Pomeranian,Small,61,4.7,9,209,129,80,,Medium
+690,Husky,Large,6,26,5,195,,,,High
+691,Nadan,Medium,12,17.5,9,195,,,,High
+692,Indian Spitz,Medium,10,17.2,8,199,,,,High
+693,Shih Tzu,Small,67,8.7,5,177,13,164,,Low
+694,Rottweiler,Large,42,28,13,189,129,60,,Medium
+695,Indian Spitz,Medium,8,21.9,8,204,,,,High
+696,Golden Retriever,Large,105,30.1,11,189,14,175,,Medium
+697,Retriever,Large,117,32.1,13,202,192,11,,Medium
+698,Mettupalayam,Large,75,27.3,14,192,92,101,,High
+699,Husky,Large,5,28.2,6,189,,,,Medium
+700,Pug,Small,106,3.9,6,240,139,101,,Medium
+701,Pomeranian,Small,9,6.3,9,174,,,,Medium
+702,Nadan,Medium,12,22.7,11,191,,,,High
+703,Shih Tzu,Small,10,3.6,5,131,129,2,,Medium
+704,Golden Retriever,Large,7,30.2,14,202,,,,Low
+705,Golden Retriever,Large,34,36.9,11,197,14,183,,Medium
+706,Pomeranian,Small,45,6.9,11,193,34,159,,Medium
+707,Pomeranian,Small,107,3.1,9,170,97,73,,High
+708,Indian Spitz,Medium,6,24,7,194,,,,High
+709,Shih Tzu,Small,7,4.9,5,150,,,,Medium
+710,Nadan,Medium,96,15,8,191,139,52,,High
+711,Pug,Small,4,3.2,5,154,,,,High
+712,Shih Tzu,Small,78,3.9,5,125,26,99,,Medium
+713,Shih Tzu,Small,16,5.7,7,179,71,109,,High
+714,Pomeranian,Small,23,9,9,168,157,12,,High
+715,Pug,Small,4,9,4,188,,,,Medium
+716,Indian Spitz,Medium,51,14.5,10,206,68,139,,Medium
+717,Shih Tzu,Small,72,6.8,7,134,93,42,,High
+718,Pomeranian,Small,29,6.9,7,170,38,131,,High
+719,Retriever,Large,78,27.7,12,185,158,27,,Low
+720,Husky,Large,77,30.1,5,196,57,139,,Medium
+721,Indian Spitz,Medium,45,13.4,7,181,137,44,,Low
+722,American Bully,Medium,10,16.8,11,179,,,,Low
+723,Husky,Large,7,42.7,7,182,,,,High
+724,Shih Tzu,Small,5,9.6,5,129,,,,Low
+725,Pug,Small,20,9.8,4,206,9,197,,Low
+726,Husky,Large,10,29.8,6,189,93,96,,Low
+727,Golden Retriever,Large,35,37.5,11,186,10,176,,Medium
+728,Rottweiler,Large,68,36.6,16,182,28,154,,Low
+729,Indian Spitz,Medium,9,19.3,7,197,,,,Low
+730,Rottweiler,Large,12,43.9,13,201,,,,Low
+731,Pug,Small,4,9.2,6,232,,,,High
+732,Pomeranian,Small,4,8.3,11,215,,,,Medium
+733,Pug,Small,7,5.1,5,194,,,,Medium
+734,Husky,Large,6,37.4,5,192,,,,Medium
+735,Rottweiler,Large,47,40.5,17,203,123,81,,Low
+736,Rottweiler,Large,13,38.6,17,203,,,,Low
+737,Husky,Large,5,39.7,5,196,,,,Medium
+738,Pomeranian,Small,82,4.6,10,190,46,145,,High
+739,Husky,Large,6,27.4,7,194,,,,Low
+740,Pug,Small,4,4.1,5,195,,,,Low
+741,Rottweiler,Large,113,30.8,16,187,105,82,,High
+742,Mettupalayam,Large,5,26.9,14,200,,,,High
+743,Golden Retriever,Large,60,43,14,205,53,152,,Medium
+744,Indian Spitz,Medium,11,15.5,11,182,,,,High
+745,Mettupalayam,Large,63,42.3,14,209,173,36,,Low
+746,Retriever,Large,3,26.2,12,184,,,,Medium
+747,Shih Tzu,Small,4,3.4,5,165,,,,Low
+748,Pomeranian,Small,8,7.4,10,233,,,,Medium
+749,Rottweiler,Large,118,44.3,14,208,97,111,,High
+750,Retriever,Large,35,29.8,11,206,177,30,,Low
+751,Indian Spitz,Medium,11,13.2,11,200,,,,Medium
+752,Mettupalayam,Large,120,33.4,17,197,19,178,,Low
+753,Husky,Large,84,32.4,6,182,172,10,,High
+754,Rottweiler,Large,17,32.5,16,203,,,,Medium
+755,Rottweiler,Large,9,34.4,13,185,,,,Medium
+756,Mettupalayam,Large,58,43.6,15,191,26,166,,Low
+757,American Bully,Medium,49,13.5,10,190,139,50,,High
+758,Pomeranian,Small,3,8.9,8,240,,,,Medium
+759,Golden Retriever,Large,72,40.3,12,181,84,98,,Low
+760,Mettupalayam,Large,98,39.8,16,200,148,51,,Medium
+761,Husky,Large,87,32.5,7,181,151,30,,High
+762,Rottweiler,Large,119,38.2,18,208,94,114,,Medium
+763,Golden Retriever,Large,11,37.3,13,183,,,,Low
+764,Golden Retriever,Large,5,34,12,184,,,,High
+765,Pomeranian,Small,119,6.3,8,166,132,34,,Medium
+766,Husky,Large,5,34.2,6,183,,,,Medium
+767,Retriever,Large,118,26.7,14,189,153,36,,High
+768,Pug,Small,8,6.1,5,226,,,,High
+769,Rottweiler,Large,12,32.6,13,199,,,,Low
+770,Mettupalayam,Large,76,28.1,15,203,166,37,,Low
+771,Retriever,Large,111,27.5,11,188,100,88,,Medium
+772,Nadan,Medium,6,24.9,11,188,,,,High
+773,Mettupalayam,Large,21,29.2,15,188,126,62,,Low
+774,Golden Retriever,Large,104,33.6,14,192,27,165,,High
+775,Golden Retriever,Large,50,29.4,13,186,100,86,,High
+776,Husky,Large,28,27.7,5,192,98,94,,Medium
+777,Golden Retriever,Large,80,30.7,12,208,13,194,,Low
+778,Retriever,Large,9,43.1,13,195,,,,Low
+779,Retriever,Large,88,37.8,13,185,1,184,,Low
+780,American Bully,Medium,9,23.1,8,180,,,,Medium
+781,Pomeranian,Small,9,7.5,7,234,,,,Medium
+782,Retriever,Large,80,32,14,199,6,194,,Low
+783,American Bully,Medium,10,17.9,7,174,36,138,,High
+784,Golden Retriever,Large,83,27.7,12,185,100,84,,High
+785,Nadan,Medium,10,20.8,11,185,,,,Low
+786,Pomeranian,Small,103,7.1,12,234,151,83,,Medium
+787,Rottweiler,Large,9,44.6,17,195,,,,Medium
+788,Husky,Large,96,39.4,5,191,36,155,,Medium
+789,Nadan,Medium,60,18.6,7,199,111,88,,Medium
+790,American Bully,Medium,45,23.8,11,188,46,142,,High
+791,Golden Retriever,Large,78,27.9,14,208,151,57,,High
+792,Pug,Small,91,3.1,6,198,69,129,,Medium
+793,Nadan,Medium,119,17.3,8,194,35,159,,Medium
+794,Shih Tzu,Small,7,6.9,7,138,,,,Low
+795,Pomeranian,Small,40,6.7,10,215,154,61,,High
+796,Pug,Small,48,9,6,153,71,81,,High
+797,Husky,Large,6,30.5,5,188,,,,High
+798,Pug,Small,45,7.1,4,211,29,182,,Low
+799,Shih Tzu,Small,5,3.9,4,159,,,,High
+800,Indian Spitz,Medium,4,20.5,7,190,,,,Low
+801,Retriever,Large,6,34.3,13,201,,,,Medium
+802,Mettupalayam,Large,59,29.2,18,189,170,19,,Low
+803,Husky,Large,6,27.9,5,182,,,,Low
+804,Rottweiler,Large,15,33,13,195,,,,High
+805,Nadan,Medium,5,24.7,10,187,,,,High
+806,Husky,Large,7,42.6,7,184,,,,Low
+807,American Bully,Medium,108,13.9,10,188,81,107,,Medium
+808,Indian Spitz,Medium,9,11.5,11,193,,,,High
+809,Retriever,Large,51,32.6,10,202,150,53,,Medium
+810,American Bully,Medium,8,12.8,8,184,,,,Low
+811,Golden Retriever,Large,36,39.4,12,182,35,147,,High
+812,Mettupalayam,Large,15,34,13,188,,,,Low
+813,Mettupalayam,Large,78,41.6,17,207,59,149,,Medium
+814,Mettupalayam,Large,42,40,18,192,93,99,,High
+815,Retriever,Large,3,41.7,13,185,,,,High
+816,Pug,Small,4,5.7,5,226,,,,Medium
+817,Husky,Large,9,27.6,7,191,,,,Medium
+818,Golden Retriever,Large,11,30.5,12,208,,,,Low
+819,Rottweiler,Large,78,30.9,14,187,166,21,,High
+820,American Bully,Medium,30,14.6,7,180,137,42,,Medium
+821,Pug,Small,11,7,5,151,121,30,,Low
+822,Retriever,Large,40,35.5,13,203,101,102,,Medium
+823,Retriever,Large,79,43.1,14,204,52,153,,High
+824,Retriever,Large,93,38.7,10,182,19,163,,Low
+825,Husky,Large,43,39.6,7,191,31,160,,Medium
+826,Husky,Large,5,30.9,6,183,,,,High
+827,American Bully,Medium,6,16.9,9,172,,,,Medium
+828,American Bully,Medium,16,24.6,11,190,80,110,,High
+829,Mettupalayam,Large,92,37.6,15,210,126,83,,Medium
+830,Rottweiler,Large,61,30.4,17,203,202,0,,High
+831,Indian Spitz,Medium,8,15.2,10,203,,,,Medium
+832,Indian Spitz,Medium,6,18.5,8,210,,,,High
+833,Nadan,Medium,98,23.4,9,191,99,91,,High
+834,Golden Retriever,Large,9,37.7,13,183,,,,Low
+835,Retriever,Large,8,30.9,10,207,,,,Medium
+836,Pomeranian,Small,9,8.9,7,205,,,,High
+837,Golden Retriever,Large,90,30.6,14,186,96,89,,Medium
+838,Mettupalayam,Large,81,33.3,15,186,135,51,,High
+839,Rottweiler,Large,4,28.9,14,208,,,,High
+840,Shih Tzu,Small,9,7.7,7,150,,,,Low
+841,Pug,Small,43,3.1,6,206,172,35,,Medium
+842,Golden Retriever,Large,58,30.4,10,208,121,87,,Low
+843,Golden Retriever,Large,55,42.2,13,201,68,133,,Low
+844,Shih Tzu,Small,35,3.9,5,126,110,16,,High
+845,Indian Spitz,Medium,12,24.1,11,210,,,,Low
+846,Nadan,Medium,12,13,6,181,109,72,,High
+847,Rottweiler,Large,3,34.6,15,210,,,,High
+848,Husky,Large,3,38.5,6,182,,,,Medium
+849,Rottweiler,Large,100,43.9,14,204,101,103,,Low
+850,Pug,Small,73,5.4,6,227,182,45,,High

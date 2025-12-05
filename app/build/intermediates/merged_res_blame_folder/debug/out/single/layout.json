@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "org.caninecare.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "org.caninecare.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-mergeDebugResources-48:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-mergeDebugResources-48:\\layout\\activity_fertility.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_fertility.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-mergeDebugResources-48:\\layout\\activity_alerts.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_alerts.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "org.caninecare.app-mergeDebugResources-48:/layout/activity_fertility.xml",
+        "source": "org.caninecare.app-main-51:/layout/activity_fertility.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-mergeDebugResources-48:\\layout\\activity_health.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_health.xml"
+    },
+    {
+        "merged": "org.caninecare.app-mergeDebugResources-48:/layout/item_heat_cycle.xml",
+        "source": "org.caninecare.app-main-51:/layout/item_heat_cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-mergeDebugResources-48:\\layout\\activity_location.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\org.caninecare.app-main-51:\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "org.caninecare.app-mergeDebugResources-48:/layout/activity_heat_history.xml",
+        "source": "org.caninecare.app-main-51:/layout/activity_heat_history.xml"
+    },
+    {
+        "merged": "org.caninecare.app-mergeDebugResources-48:/layout/activity_dog_profile.xml",
+        "source": "org.caninecare.app-main-51:/layout/activity_dog_profile.xml"
+    }
+]

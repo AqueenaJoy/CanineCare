@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CanineCare"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        
+        <!-- Main Activity -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.CanineCare.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <!-- Home Activity -->
+        <activity
+            android:name=".activities.HomeActivity"
+            android:label="@string/home"
+            android:parentActivityName=".MainActivity" />
+        
+        <!-- Health Activity -->
+        <activity
+            android:name=".activities.HealthActivity"
+            android:label="@string/health_monitor"
+            android:parentActivityName=".MainActivity" />
+        
+        <!-- Fertility Activity -->
+        <activity
+            android:name=".activities.FertilityActivity"
+            android:label="@string/fertility_prediction"
+            android:parentActivityName=".MainActivity" />
+        
+        <!-- Location Activity -->
+        <activity
+            android:name=".activities.LocationActivity"
+            android:label="@string/location_tracking"
+            android:parentActivityName=".MainActivity" />
+        
+        <!-- Alerts Activity -->
+        <activity
+            android:name=".activities.AlertsActivity"
+            android:label="@string/alerts"
+            android:parentActivityName=".MainActivity" />
+        
+        <!-- Dog Profile Activity -->
+        <activity
+            android:name=".activities.DogProfileActivity"
+            android:label="Dog Profile"
+            android:parentActivityName=".MainActivity" />
+        
+        <!-- Heat History Activity -->
+        <activity
+            android:name=".activities.HeatHistoryActivity"
+            android:label="Heat Cycle History"
+            android:parentActivityName=".activities.FertilityActivity" />
+        
+        <!-- Google Maps API Key -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="YOUR_GOOGLE_MAPS_API_KEY" />
+        
+    </application>
+
+</manifest>
